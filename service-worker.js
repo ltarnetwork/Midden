@@ -48,4 +48,4 @@ self.addEventListener('fetch', () => { });
 //    }
 //
 //    return cachedResponse || fetch(event.request);
-//}/* Manifest version: HueQ2vH7 */
+//}/* Manifest version: VI6+RWPw */
