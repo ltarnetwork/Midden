@@ -105,7 +105,7 @@
       "url": "img\/insights.jpg"
     },
     {
-      "hash": "sha256-3W3NIBWwKgcijrFxvDEb78wd7e7cNAhpY9f448tjbrc=",
+      "hash": "sha256-X\/u47IvuEf8sucTIp74YqdnCUz6mjSn9tO3BmUqgdOY=",
       "url": "index.html"
     },
     {
@@ -509,5 +509,5 @@
       "url": "_content\/PSC.Blazor.Components.MarkdownEditor\/PSC.Blazor.Components.MarkdownEditor.bundle.scp.css"
     }
   ],
-  "version": "VI6+RWPw"
+  "version": "z6Er3KcS"
 };
