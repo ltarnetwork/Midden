@@ -13,7 +13,7 @@
       "url": "js\/markdownEditor.js"
     },
     {
-      "hash": "sha256-RiTbGnHVsprpEiZ+i75rup\/8+jVCvq+IT45fS7nKZG0=",
+      "hash": "sha256-Kg3ZmEj9RwJV+mycb8+8mYG9I7SjcoDxo+Ae38jcy50=",
       "url": "app-config.json"
     },
     {
@@ -509,5 +509,5 @@
       "url": "_content\/PSC.Blazor.Components.MarkdownEditor\/PSC.Blazor.Components.MarkdownEditor.bundle.scp.css"
     }
   ],
-  "version": "z6Er3KcS"
+  "version": "BCLf3IWw"
 };
