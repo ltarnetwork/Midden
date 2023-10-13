@@ -4,7 +4,7 @@
   "organizationName": "LTAR Network Demo",
   "toolName": "Metadata Tool",
   "zones": [
-    "Raw",
+    "Landing",
     "Work",
     "Production"
   ],
@@ -123,10 +123,10 @@
     "[EPA]Transportation",
     "[EPA]Waste",
     "[EPA]Water",
-    "[LTARSITE]CAF",
-    "[LTARSITE]CPER",
-    "[LTARSITE]ABS-UF",
-    "[LTARSITE]WGER",
+    "[LtarSite]CAF",
+    "[LtarSite]CPER",
+    "[LtarSite]ABS-UF",
+    "[LtarSite]WGER",
     "[LTARWG]Biological",
     "[LTARWG]CroplandCommonExperiment",
     "[LTARWG]CommunicationStrategies",
