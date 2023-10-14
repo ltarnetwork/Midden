@@ -21,7 +21,7 @@
       "url": "apple-icon.png"
     },
     {
-      "hash": "sha256-yjJjE084atbi6TYcxTyF7K3mITj6v8l8fMi79dlOEuM=",
+      "hash": "sha256-pA3XKCBodUG6GCXjbvkrHJtSPnvgP8cwLqm\/cUWSwm4=",
       "url": "catalog.json"
     },
     {
@@ -509,5 +509,5 @@
       "url": "_content\/PSC.Blazor.Components.MarkdownEditor\/PSC.Blazor.Components.MarkdownEditor.bundle.scp.css"
     }
   ],
-  "version": "WCNAnLvI"
+  "version": "kWc3P9Sd"
 };
